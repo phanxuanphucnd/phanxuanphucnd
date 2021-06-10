@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <a href="https://github.com/phanxuanphucnd"><img src="https://github.com/phanxuanphucnd/profile/blob/main/images/me.gif" alt="Coder GIF" width="500" height="200"></a>
+  <a href="https://github.com/phanxuanphucnd"><img src="https://github.com/phanxuanphucnd/profile/blob/main/images/me.gif" alt="Coder GIF" width="400" height="200"></a>
 </p>
 
 <p align="center">
