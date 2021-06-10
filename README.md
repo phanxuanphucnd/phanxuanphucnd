@@ -17,5 +17,7 @@
 I am interested in Machine learning, Deep learning, Nature language processing, Speech processing and Algorithmns. My
 goal is to become an excellent programmer, applying artificial intelligence to improve the quality of our lives.
 
+Contact me: phanxuanphucnd@gmail.com
+
 <p  align="center">
   
