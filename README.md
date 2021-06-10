@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/phanxuanphucnd"><img src="https://github.com/phanxuanphucnd/profile/blob/main/images/aboutme.gif" alt="Coder GIF" width="400" height="320"></a>
+  <a href="https://github.com/phanxuanphucnd"><img src="https://github.com/phanxuanphucnd/profile/blob/main/images/me.gif" alt="Coder GIF"></a>
 </p>
   
 <p  align="center"><img src="https://github.com/sooftware/sooftware/blob/master/images/code.gif" alt="Coder GIF" width="400" height="320">
