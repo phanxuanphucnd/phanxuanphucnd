@@ -3,7 +3,7 @@
 </h3>
 
 <p align="center">
-  <a href="https://github.com/phanxuanphucnd"><img src="https://awesome.re/badge.svg"></a>
+  <a href="https://www.facebook.com/phanxuanphucnd/"><img src="https://awesome.re/badge.svg"></a>
   <a href="https://github.com/phanxuanphucnd"><img src="https://img.shields.io/github/followers/sooftware?style=social"></a>
   <a href="https://github.com/phanxuanphucnd"><img src="https://img.shields.io/github/stars/sooftware?style=social"></a>
 </p>
