@@ -25,9 +25,9 @@ goal is to become an excellent programmer, applying artificial intelligence to i
   <a href="https://github.com/phanxuanphucnd"><img src="https://github.com/phanxuanphucnd/profile/blob/main/images/me.gif" alt="Coder GIF"></a>
 </p>
   
-<!-- <p  align="center"><img src="https://github.com/sooftware/sooftware/blob/master/images/code.gif" alt="Coder GIF" width="400" height="320">
+<p  align="center"><img src="https://github.com/sooftware/sooftware/blob/master/images/code.gif" alt="Coder GIF" width="400" height="320">
 
-<p  align="center"> -->
+<p  align="center">
 
 <div align="center">
 <a href="https://www.linkedin.com/in/phanxuanphucnd/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> 
