@@ -18,7 +18,7 @@
 - 🔭 I’m a AI Engineer in Vin Bigdata
 - 🌱 I am interested in Machine learning, Deep learning, Nature language processing, Speech processing and Algorithmns. My
 goal is to become an excellent programmer, applying artificial intelligence to improve the quality of our lives.
-- 📫 How to contact me: [Facebook](https://www.facebook.com/phanxuanphucnd/) or <a href="mailto:phanxuanphucnd@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="GMail"></a> or <a href="https://www.linkedin.com/in/phanxuanphucnd/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> .
+- 📫 How to contact me: <a href="mailto:phanxuanphucnd@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="GMail"></a> <a href="https://www.linkedin.com/in/phanxuanphucnd/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> .
 - ⚡ Fun fact: ...
 
 <p align="center">
