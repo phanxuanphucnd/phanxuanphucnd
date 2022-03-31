@@ -29,5 +29,8 @@ goal is to become an excellent programmer, applying artificial intelligence to i
 
 <p  align="center">
 
+<div align="center">
+<a href="https://www.linkedin.com/in/phanxuanphucnd/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> 
+<a href="mailto:phanxuanphucnd@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="GMail"></a>
 
   
