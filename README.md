@@ -18,8 +18,10 @@
 - 🔭 I’m a AI Engineer in Vin Bigdata
 - 🌱 I am interested in Machine learning, Deep learning, Nature language processing, Speech processing and Algorithmns. My
 goal is to become an excellent programmer, applying artificial intelligence to improve the quality of our lives.
-- 📫 How to contact me: <a href="mailto:phanxuanphucnd@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="GMail"></a>  <a href="https://www.linkedin.com/in/phanxuanphucnd/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> 
+- 📫 How to contact me: [Facebook](fb.com/phanxuanphucnd)  [LinkedIn](https://www.linkedin.com/in/phanxuanphucnd/)
 - ⚡ Fun fact: ...
+
+<a href="mailto:phanxuanphucnd@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="GMail"></a>  <a href="https://www.linkedin.com/in/phanxuanphucnd/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> 
 
 <p align="center">
   <a href="https://github.com/phanxuanphucnd"><img src="https://github.com/phanxuanphucnd/profile/blob/main/images/me.gif" alt="Coder GIF"></a>
