@@ -23,6 +23,14 @@ goal is to become an excellent programmer, applying artificial intelligence to i
 - 📫 How to contact me: [Facebook](fb.com/phanxuanphucnd)  [LinkedIn](https://www.linkedin.com/in/phanxuanphucnd/)
 - ⚡ Fun fact: ...
 
+<h2 align="center">More insight of my GitHub account</h2>
+<h3 align="center">:trophy::star: Trophies :star::trophy:</h3>
+
+
+<p align="center">
+<a href="https://github.com/phanxuanphucnd"><img src="https://github-profile-trophy.vercel.app/?username=phanxuanphucnd" "></a>
+</p>
+
 
 <p align="center">
   <a href="https://github.com/phanxuanphucnd"><img src="https://github.com/phanxuanphucnd/profile/blob/main/images/me.gif" alt="Coder GIF"></a>
