@@ -31,6 +31,10 @@ goal is to become an excellent programmer, applying artificial intelligence to i
 <a href="https://github.com/phanxuanphucnd"><img src="https://github-profile-trophy.vercel.app/?username=phanxuanphucnd" "></a>
 </p>
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/phanxuanphucnd/count.svg" />
+</p>
 
 <!-- <p align="center">
   <a href="https://github.com/phanxuanphucnd"><img src="https://github.com/phanxuanphucnd/profile/blob/main/images/me.gif" alt="Coder GIF"></a>
