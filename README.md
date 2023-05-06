@@ -17,7 +17,7 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=phanxuanphucnd&show_icons=true&theme=default">
 </a>
 
-- 🔭 I’m a AI Engineer in Vin Bigdata
+- 🔭 I’m a AI Research & Engineer
 - 🌱 I am interested in Machine learning, Deep learning, Nature language processing, Speech processing and Algorithmns. My
 goal is to become an excellent programmer, applying artificial intelligence to improve the quality of our lives.
 - 📫 How to contact me: [Facebook](fb.com/phanxuanphucnd)  [LinkedIn](https://www.linkedin.com/in/phanxuanphucnd/)
